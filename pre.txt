@@ -1,0 +1,2073 @@
+
+
+// Predicate logic relations for the ontology concept lote-tree:
+
+(part-of lote-tree paradise)
+(instance lote-tree afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept horse:
+
+(instance horse animal)
+
+
+
+// Predicate logic relations for the ontology concept companions-of-the-elephant:
+
+(subclass companions-of-the-elephant historic-people)
+
+
+
+// Predicate logic relations for the ontology concept brass:
+
+(instance brass metal)
+
+
+
+// Predicate logic relations for the ontology concept badr:
+
+(instance badr city)
+
+
+
+// Predicate logic relations for the ontology concept artifact:
+
+(subclass artifact concept)
+(instance ark-of-the-covenant artifact)
+(subclass weaponary artifact)
+(instance boat artifact)
+(subclass place-of-worship artifact)
+(instance coin artifact)
+(instance ink artifact)
+(instance key artifact)
+(instance ladder artifact)
+(instance lamp artifact)
+(instance noah's-ark artifact)
+(instance pen artifact)
+(instance ship artifact)
+
+
+
+// Predicate logic relations for the ontology concept grain:
+
+(instance grain food)
+
+
+
+// Predicate logic relations for the ontology concept garlic:
+
+(instance garlic plant)
+
+
+
+// Predicate logic relations for the ontology concept zayd:
+
+(instance zayd quraysh)
+(adopted-son-of zayd muhammad)
+
+
+
+// Predicate logic relations for the ontology concept ramadan:
+
+(instance ramadan calendar-event)
+
+
+
+// Predicate logic relations for the ontology concept umm-jamil:
+
+(wife-of umm-jamil abu-lahab)
+(instance umm-jamil quraysh)
+
+
+
+// Predicate logic relations for the ontology concept tree:
+
+(instance tree plant)
+
+
+
+// Predicate logic relations for the ontology concept day-of-resurrection:
+
+(instance day-of-resurrection afterlife-event)
+(name-of last-day day-of-resurrection)
+
+
+
+// Predicate logic relations for the ontology concept boat:
+
+(instance boat artifact)
+
+
+
+// Predicate logic relations for the ontology concept quran:
+
+(instance quran holy-book)
+
+
+
+// Predicate logic relations for the ontology concept historic-people:
+
+(subclass historic-people human)
+(subclass aad historic-people)
+(subclass quraysh historic-people)
+(subclass ansar historic-people)
+(subclass bedouin historic-people)
+(subclass children-of-israel historic-people)
+(subclass companions-of-the-cave historic-people)
+(subclass companions-of-the-elephant historic-people)
+(subclass companions-of-the-pit historic-people)
+(subclass companions-of-the-rass historic-people)
+(subclass companions-of-the-wood historic-people)
+(subclass gog-and-magog historic-people)
+(subclass madyan historic-people)
+(subclass people-of-al-hijr historic-people)
+(subclass thamud historic-people)
+(subclass romans historic-people)
+(subclass tubba historic-people)
+
+
+
+// Predicate logic relations for the ontology concept yahya:
+
+(son-of yahya zechariah)
+(instance yahya prophet)
+
+
+
+// Predicate logic relations for the ontology concept thunder:
+
+(instance thunder weather-phenomena)
+
+
+
+// Predicate logic relations for the ontology concept holy-book:
+
+(subclass holy-book concept)
+(instance injeel holy-book)
+(instance quran holy-book)
+(instance torah holy-book)
+(instance zabur holy-book)
+
+
+
+// Predicate logic relations for the ontology concept dust:
+
+(instance dust physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept yusuf:
+
+(son-of yusuf yaqub)
+(instance yusuf prophet)
+
+
+
+// Predicate logic relations for the ontology concept heel:
+
+(instance heel body-part)
+
+
+
+// Predicate logic relations for the ontology concept milk:
+
+(instance milk food)
+
+
+
+// Predicate logic relations for the ontology concept historic-event:
+
+(subclass historic-event event)
+(instance al-jahiliyah historic-event)
+
+
+
+// Predicate logic relations for the ontology concept coin:
+
+(instance coin artifact)
+
+
+
+// Predicate logic relations for the ontology concept louse:
+
+(instance louse insect)
+
+
+
+// Predicate logic relations for the ontology concept lentil:
+
+(instance lentil plant)
+
+
+
+// Predicate logic relations for the ontology concept nasr:
+
+(instance nasr false-deity)
+
+
+
+// Predicate logic relations for the ontology concept musa:
+
+(instance musa messenger)
+(instance musa prophet)
+
+
+
+// Predicate logic relations for the ontology concept tubba:
+
+(subclass tubba historic-people)
+
+
+
+// Predicate logic relations for the ontology concept children-of-israel:
+
+(subclass children-of-israel historic-people)
+
+
+
+// Predicate logic relations for the ontology concept companions-of-the-pit:
+
+(subclass companions-of-the-pit historic-people)
+
+
+
+// Predicate logic relations for the ontology concept israel:
+
+(name-of israel yaqub)
+(instance israel prophet)
+
+
+
+// Predicate logic relations for the ontology concept tongue:
+
+(instance tongue body-part)
+
+
+
+// Predicate logic relations for the ontology concept isaac:
+
+(son-of isaac ibrahim)
+(instance isaac prophet)
+(son-of yaqub isaac)
+
+
+
+// Predicate logic relations for the ontology concept ginger:
+
+(instance ginger plant)
+
+
+
+// Predicate logic relations for the ontology concept mosquito:
+
+(instance mosquito insect)
+
+
+
+// Predicate logic relations for the ontology concept pork:
+
+(instance pork food)
+
+
+
+// Predicate logic relations for the ontology concept allah:
+
+(instance allah concept)
+
+
+
+// Predicate logic relations for the ontology concept ink:
+
+(instance ink artifact)
+
+
+
+// Predicate logic relations for the ontology concept desert:
+
+(instance desert geographical-location)
+
+
+
+// Predicate logic relations for the ontology concept baal:
+
+(instance baal false-deity)
+
+
+
+// Predicate logic relations for the ontology concept leprosy:
+
+(instance leprosy disease)
+
+
+
+// Predicate logic relations for the ontology concept angel:
+
+(subclass angel sentient-creation)
+(instance azrael angel)
+(instance harut angel)
+(instance jibreel angel)
+(instance malik angel)
+(instance marut angel)
+(instance mikaeel angel)
+
+
+
+// Predicate logic relations for the ontology concept zechariah:
+
+(instance zechariah prophet)
+(son-of yahya zechariah)
+
+
+
+// Predicate logic relations for the ontology concept forehead:
+
+(instance forehead body-part)
+
+
+
+// Predicate logic relations for the ontology concept cucumber:
+
+(instance cucumber plant)
+
+
+
+// Predicate logic relations for the ontology concept breast-bone:
+
+(instance breast-bone bone)
+
+
+
+// Predicate logic relations for the ontology concept last-day:
+
+(name-of last-day day-of-resurrection)
+(instance last-day afterlife-event)
+
+
+
+// Predicate logic relations for the ontology concept iblis:
+
+(name-of iblis satan)
+(instance iblis jinn)
+
+
+
+// Predicate logic relations for the ontology concept cain:
+
+(son-of cain adam)
+(instance cain historic-person)
+
+
+
+// Predicate logic relations for the ontology concept soil:
+
+(instance soil physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept elisha:
+
+(instance elisha prophet)
+
+
+
+// Predicate logic relations for the ontology concept qiblah:
+
+(instance qiblah geographical-location)
+
+
+
+// Predicate logic relations for the ontology concept jibreel:
+
+(instance jibreel angel)
+
+
+
+// Predicate logic relations for the ontology concept aad:
+
+(subclass aad historic-people)
+
+
+
+// Predicate logic relations for the ontology concept injeel:
+
+(instance injeel holy-book)
+
+
+
+// Predicate logic relations for the ontology concept nuh:
+
+(instance nuh prophet)
+(instance nuh messenger)
+
+
+
+// Predicate logic relations for the ontology concept golden-calf:
+
+(instance golden-calf idol)
+
+
+
+// Predicate logic relations for the ontology concept bone:
+
+(subclass bone body-part)
+(instance breast-bone bone)
+
+
+
+// Predicate logic relations for the ontology concept jinn:
+
+(subclass jinn sentient-creation)
+(instance iblis jinn)
+(instance satan jinn)
+
+
+
+// Predicate logic relations for the ontology concept herb:
+
+(instance herb plant)
+
+
+
+// Predicate logic relations for the ontology concept geographical-location:
+
+(subclass geographical-location location)
+(subclass mountain geographical-location)
+(subclass city geographical-location)
+(instance desert geographical-location)
+(subclass historic-land geographical-location)
+(instance horizon geographical-location)
+(instance qiblah geographical-location)
+
+
+
+// Predicate logic relations for the ontology concept torah:
+
+(instance torah holy-book)
+
+
+
+// Predicate logic relations for the ontology concept pearl:
+
+(instance pearl physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept coral:
+
+(instance coral physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept disease:
+
+(subclass disease organic-object)
+(instance leprosy disease)
+
+
+
+// Predicate logic relations for the ontology concept locust:
+
+(instance locust insect)
+
+
+
+// Predicate logic relations for the ontology concept star:
+
+(instance star astronomical-body)
+
+
+
+// Predicate logic relations for the ontology concept constellation:
+
+(instance constellation astronomical-body)
+
+
+
+// Predicate logic relations for the ontology concept luqman:
+
+(instance luqman historic-person)
+
+
+
+// Predicate logic relations for the ontology concept biological-organism:
+
+(subclass biological-organism organic-object)
+(subclass animal biological-organism)
+(subclass insect biological-organism)
+(subclass bird biological-organism)
+(subclass plant biological-organism)
+(instance fish biological-organism)
+
+
+
+// Predicate logic relations for the ontology concept bird:
+
+(subclass bird biological-organism)
+(instance crow bird)
+(instance hoopoe bird)
+(instance quail bird)
+
+
+
+// Predicate logic relations for the ontology concept manat:
+
+(instance manat false-deity)
+
+
+
+// Predicate logic relations for the ontology concept harut:
+
+(instance harut angel)
+
+
+
+// Predicate logic relations for the ontology concept ant:
+
+(instance ant insect)
+
+
+
+// Predicate logic relations for the ontology concept spider:
+
+(instance spider insect)
+
+
+
+// Predicate logic relations for the ontology concept eye:
+
+(instance eye body-part)
+
+
+
+// Predicate logic relations for the ontology concept bread:
+
+(instance bread food)
+
+
+
+// Predicate logic relations for the ontology concept masjid-al-aqsa:
+
+(instance masjid-al-aqsa mosque)
+
+
+
+// Predicate logic relations for the ontology concept noah's-ark:
+
+(instance noah's-ark artifact)
+
+
+
+// Predicate logic relations for the ontology concept zabur:
+
+(instance zabur holy-book)
+
+
+
+// Predicate logic relations for the ontology concept bedouin:
+
+(subclass bedouin historic-people)
+
+
+
+// Predicate logic relations for the ontology concept azrael:
+
+(instance azrael angel)
+
+
+
+// Predicate logic relations for the ontology concept mountain:
+
+(subclass mountain geographical-location)
+(instance al-judi mountain)
+(instance al-marwah mountain)
+(instance al-safa mountain)
+(instance mount-arafat mountain)
+(instance mount-sinai mountain)
+
+
+
+// Predicate logic relations for the ontology concept allah's-throne:
+
+(instance allah's-throne concept)
+
+
+
+// Predicate logic relations for the ontology concept camel:
+
+(instance camel animal)
+
+
+
+// Predicate logic relations for the ontology concept egypt:
+
+(instance egypt historic-land)
+
+
+
+// Predicate logic relations for the ontology concept heart:
+
+(instance heart body-part)
+
+
+
+// Predicate logic relations for the ontology concept salih:
+
+(instance salih messenger)
+
+
+
+// Predicate logic relations for the ontology concept lip:
+
+(instance lip body-part)
+
+
+
+// Predicate logic relations for the ontology concept abu-lahab:
+
+(instance abu-lahab quraysh)
+(wife-of umm-jamil abu-lahab)
+
+
+
+// Predicate logic relations for the ontology concept coat-of-mail:
+
+(instance coat-of-mail weaponary)
+
+
+
+// Predicate logic relations for the ontology concept alaq:
+
+(instance alaq organic-object)
+
+
+
+// Predicate logic relations for the ontology concept madyan:
+
+(subclass madyan historic-people)
+
+
+
+// Predicate logic relations for the ontology concept mikaeel:
+
+(instance mikaeel angel)
+
+
+
+// Predicate logic relations for the ontology concept mosque:
+
+(subclass mosque place-of-worship)
+(instance kaaba mosque)
+(instance masjid-al-aqsa mosque)
+(instance masjid-al-haram mosque)
+
+
+
+// Predicate logic relations for the ontology concept suwa:
+
+(instance suwa false-deity)
+
+
+
+// Predicate logic relations for the ontology concept islam:
+
+(instance islam religion)
+
+
+
+// Predicate logic relations for the ontology concept snake:
+
+(instance snake animal)
+
+
+
+// Predicate logic relations for the ontology concept sentient-creation:
+
+(subclass sentient-creation living-creation)
+(subclass human sentient-creation)
+(subclass angel sentient-creation)
+(instance beast-of-the-earth sentient-creation)
+(subclass children-of-adam sentient-creation)
+(subclass jinn sentient-creation)
+
+
+
+// Predicate logic relations for the ontology concept ahmad:
+
+(name-of ahmad muhammad)
+(instance ahmad prophet)
+
+
+
+// Predicate logic relations for the ontology concept physical-event:
+
+(subclass physical-event event)
+(instance dawn physical-event)
+
+
+
+// Predicate logic relations for the ontology concept beast-of-the-earth:
+
+(instance beast-of-the-earth sentient-creation)
+
+
+
+// Predicate logic relations for the ontology concept magians:
+
+(instance magians religion)
+
+
+
+// Predicate logic relations for the ontology concept finger:
+
+(instance finger body-part)
+
+
+
+// Predicate logic relations for the ontology concept salt:
+
+(instance salt food)
+
+
+
+// Predicate logic relations for the ontology concept oil:
+
+(instance oil physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept shuayb:
+
+(instance shuayb messenger)
+
+
+
+// Predicate logic relations for the ontology concept ship:
+
+(instance ship artifact)
+
+
+
+// Predicate logic relations for the ontology concept ansar:
+
+(subclass ansar historic-people)
+
+
+
+// Predicate logic relations for the ontology concept lightning:
+
+(instance lightning weather-phenomena)
+
+
+
+// Predicate logic relations for the ontology concept date-palm:
+
+(instance date-palm plant)
+
+
+
+// Predicate logic relations for the ontology concept messiah:
+
+(name-of messiah jesus)
+(instance messiah prophet)
+
+
+
+// Predicate logic relations for the ontology concept hud:
+
+(instance hud messenger)
+
+
+
+// Predicate logic relations for the ontology concept mount-arafat:
+
+(instance mount-arafat mountain)
+
+
+
+// Predicate logic relations for the ontology concept pharaoh:
+
+(instance pharaoh historic-person)
+
+
+
+// Predicate logic relations for the ontology concept babylon:
+
+(instance babylon city)
+
+
+
+// Predicate logic relations for the ontology concept grape:
+
+(instance grape plant)
+
+
+
+// Predicate logic relations for the ontology concept ishmael:
+
+(son-of ishmael ibrahim)
+(instance ishmael prophet)
+(instance ishmael messenger)
+
+
+
+// Predicate logic relations for the ontology concept dhul-kifl:
+
+(instance dhul-kifl historic-person)
+
+
+
+// Predicate logic relations for the ontology concept weather-phenomena:
+
+(subclass weather-phenomena concept)
+(instance cloud weather-phenomena)
+(instance lightning weather-phenomena)
+(instance rain weather-phenomena)
+(instance thunder weather-phenomena)
+
+
+
+// Predicate logic relations for the ontology concept place-of-worship:
+
+(subclass place-of-worship artifact)
+(instance church place-of-worship)
+(subclass mosque place-of-worship)
+(instance monastery place-of-worship)
+(instance synagogue place-of-worship)
+
+
+
+// Predicate logic relations for the ontology concept ladder:
+
+(instance ladder artifact)
+
+
+
+// Predicate logic relations for the ontology concept paradise:
+
+(instance paradise afterlife-location)
+(name-of firdous paradise)
+(name-of garden-of-eden paradise)
+(part-of lote-tree paradise)
+(part-of salsabil paradise)
+
+
+
+// Predicate logic relations for the ontology concept gog-and-magog:
+
+(subclass gog-and-magog historic-people)
+
+
+
+// Predicate logic relations for the ontology concept church:
+
+(instance church place-of-worship)
+
+
+
+// Predicate logic relations for the ontology concept yathrib:
+
+(name-of yathrib medinah)
+(instance yathrib city)
+
+
+
+// Predicate logic relations for the ontology concept intestine:
+
+(instance intestine body-part)
+
+
+
+// Predicate logic relations for the ontology concept hoopoe:
+
+(instance hoopoe bird)
+
+
+
+// Predicate logic relations for the ontology concept plant:
+
+(subclass plant biological-organism)
+(instance cucumber plant)
+(instance date-palm plant)
+(instance fig plant)
+(instance ginger plant)
+(instance grape plant)
+(instance herb plant)
+(instance leaf plant)
+(instance lentil plant)
+(instance olive plant)
+(instance onion plant)
+(instance garlic plant)
+(instance pomegranate plant)
+(instance tree plant)
+
+
+
+// Predicate logic relations for the ontology concept bakkah:
+
+(name-of bakkah makkah)
+(instance bakkah city)
+
+
+
+// Predicate logic relations for the ontology concept wine:
+
+(instance wine food)
+
+
+
+// Predicate logic relations for the ontology concept sabbath:
+
+(instance sabbath calendar-event)
+
+
+
+// Predicate logic relations for the ontology concept sheep:
+
+(instance sheep animal)
+
+
+
+// Predicate logic relations for the ontology concept forelock:
+
+(instance forelock body-part)
+
+
+
+// Predicate logic relations for the ontology concept honey:
+
+(instance honey food)
+
+
+
+// Predicate logic relations for the ontology concept ark-of-the-covenant:
+
+(instance ark-of-the-covenant artifact)
+
+
+
+// Predicate logic relations for the ontology concept ayyub:
+
+(instance ayyub prophet)
+
+
+
+// Predicate logic relations for the ontology concept silk:
+
+(instance silk physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept idol:
+
+(subclass idol false-deity)
+(instance golden-calf idol)
+
+
+
+// Predicate logic relations for the ontology concept medinah:
+
+(instance medinah city)
+(name-of yathrib medinah)
+
+
+
+// Predicate logic relations for the ontology concept sabians:
+
+(instance sabians religion)
+
+
+
+// Predicate logic relations for the ontology concept sun:
+
+(instance sun astronomical-body)
+
+
+
+// Predicate logic relations for the ontology concept yaghuth:
+
+(instance yaghuth false-deity)
+
+
+
+// Predicate logic relations for the ontology concept hajj:
+
+(instance hajj calendar-event)
+
+
+
+// Predicate logic relations for the ontology concept frog:
+
+(instance frog animal)
+
+
+
+// Predicate logic relations for the ontology concept muhammad:
+
+(instance muhammad prophet)
+(instance muhammad messenger)
+(instance muhammad quraysh)
+(name-of ahmad muhammad)
+(adopted-son-of zayd muhammad)
+
+
+
+// Predicate logic relations for the ontology concept organic-object:
+
+(subclass organic-object living-creation)
+(instance alaq organic-object)
+(subclass biological-organism organic-object)
+(subclass body-part organic-object)
+(subclass food organic-object)
+(subclass disease organic-object)
+(instance embryo organic-object)
+
+
+
+// Predicate logic relations for the ontology concept adam:
+
+(instance adam prophet)
+(son-of abel adam)
+(son-of cain adam)
+
+
+
+// Predicate logic relations for the ontology concept malik:
+
+(instance malik angel)
+
+
+
+// Predicate logic relations for the ontology concept imran:
+
+(instance imran historic-person)
+(daughter-of maryam imran)
+
+
+
+// Predicate logic relations for the ontology concept qarun:
+
+(instance qarun historic-person)
+
+
+
+// Predicate logic relations for the ontology concept companions-of-the-wood:
+
+(subclass companions-of-the-wood historic-people)
+
+
+
+// Predicate logic relations for the ontology concept event:
+
+(subclass event concept)
+(subclass afterlife-event event)
+(subclass calendar-event event)
+(subclass physical-event event)
+(subclass historic-event event)
+
+
+
+// Predicate logic relations for the ontology concept bee:
+
+(instance bee insect)
+
+
+
+// Predicate logic relations for the ontology concept al-jahiliyah:
+
+(instance al-jahiliyah historic-event)
+
+
+
+// Predicate logic relations for the ontology concept iron:
+
+(instance iron metal)
+
+
+
+// Predicate logic relations for the ontology concept food:
+
+(subclass food organic-object)
+(instance bread food)
+(instance carrion food)
+(instance grain food)
+(instance honey food)
+(instance meat food)
+(instance milk food)
+(instance pork food)
+(instance salt food)
+(instance wine food)
+
+
+
+// Predicate logic relations for the ontology concept yaqub:
+
+(son-of yaqub isaac)
+(instance yaqub prophet)
+(name-of israel yaqub)
+(son-of yusuf yaqub)
+
+
+
+// Predicate logic relations for the ontology concept synagogue:
+
+(instance synagogue place-of-worship)
+
+
+
+// Predicate logic relations for the ontology concept messenger:
+
+(subclass messenger human)
+(instance muhammad messenger)
+(instance elijah messenger)
+(instance hud messenger)
+(instance ibrahim messenger)
+(instance ishmael messenger)
+(instance jesus messenger)
+(instance lut messenger)
+(instance musa messenger)
+(instance nuh messenger)
+(instance salih messenger)
+(instance shuayb messenger)
+(instance yunus messenger)
+
+
+
+// Predicate logic relations for the ontology concept elijah:
+
+(instance elijah prophet)
+(instance elijah messenger)
+
+
+
+// Predicate logic relations for the ontology concept mount-sinai:
+
+(instance mount-sinai mountain)
+
+
+
+// Predicate logic relations for the ontology concept arrow:
+
+(instance arrow weaponary)
+
+
+
+// Predicate logic relations for the ontology concept al-marwah:
+
+(instance al-marwah mountain)
+
+
+
+// Predicate logic relations for the ontology concept sheba:
+
+(instance sheba historic-land)
+
+
+
+// Predicate logic relations for the ontology concept umra:
+
+(instance umra calendar-event)
+
+
+
+// Predicate logic relations for the ontology concept body-part:
+
+(subclass body-part organic-object)
+(subclass bone body-part)
+(instance ear body-part)
+(instance eye body-part)
+(instance finger body-part)
+(instance forehead body-part)
+(instance forelock body-part)
+(instance intestine body-part)
+(instance heart body-part)
+(instance heel body-part)
+(instance lip body-part)
+(instance snout body-part)
+(instance tongue body-part)
+(instance wing body-part)
+
+
+
+// Predicate logic relations for the ontology concept green:
+
+(instance green color)
+
+
+
+// Predicate logic relations for the ontology concept snout:
+
+(instance snout body-part)
+
+
+
+// Predicate logic relations for the ontology concept hunayn:
+
+(instance hunayn city)
+
+
+
+// Predicate logic relations for the ontology concept azar:
+
+(instance azar historic-person)
+(son-of ibrahim azar)
+
+
+
+// Predicate logic relations for the ontology concept iram:
+
+(instance iram city)
+
+
+
+// Predicate logic relations for the ontology concept saqar:
+
+(name-of saqar hell)
+(instance saqar afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept hell:
+
+(instance hell afterlife-location)
+(name-of ladha hell)
+(name-of saqar hell)
+(name-of sijjeen hell)
+(name-of zaqqum hell)
+
+
+
+// Predicate logic relations for the ontology concept human:
+
+(subclass human sentient-creation)
+(subclass historic-people human)
+(subclass historic-person human)
+(subclass prophet human)
+(subclass messenger human)
+(name-of children-of-adam human)
+(subclass king human)
+
+
+
+// Predicate logic relations for the ontology concept yauq:
+
+(instance yauq false-deity)
+
+
+
+// Predicate logic relations for the ontology concept pen:
+
+(instance pen artifact)
+
+
+
+// Predicate logic relations for the ontology concept calendar-event:
+
+(subclass calendar-event event)
+(instance friday calendar-event)
+(instance hajj calendar-event)
+(instance night-of-decree calendar-event)
+(instance ramadan calendar-event)
+(instance sabbath calendar-event)
+(instance umra calendar-event)
+
+
+
+// Predicate logic relations for the ontology concept earth:
+
+(instance earth astronomical-body)
+
+
+
+// Predicate logic relations for the ontology concept lut:
+
+(instance lut prophet)
+(instance lut messenger)
+
+
+
+// Predicate logic relations for the ontology concept cloud:
+
+(instance cloud weather-phenomena)
+
+
+
+// Predicate logic relations for the ontology concept al-judi:
+
+(instance al-judi mountain)
+
+
+
+// Predicate logic relations for the ontology concept historic-land:
+
+(subclass historic-land geographical-location)
+(instance egypt historic-land)
+(instance sheba historic-land)
+(instance al-ahqaf historic-land)
+
+
+
+// Predicate logic relations for the ontology concept quraysh:
+
+(subclass quraysh historic-people)
+(instance abu-lahab quraysh)
+(instance muhammad quraysh)
+(instance umm-jamil quraysh)
+(instance zayd quraysh)
+
+
+
+// Predicate logic relations for the ontology concept glass:
+
+(instance glass physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept firdous:
+
+(name-of firdous paradise)
+(instance firdous afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept allat:
+
+(instance allat false-deity)
+
+
+
+// Predicate logic relations for the ontology concept garden-of-eden:
+
+(name-of garden-of-eden paradise)
+(instance garden-of-eden afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept people-of-al-hijr:
+
+(name-of people-of-al-hijr thamud)
+(subclass people-of-al-hijr historic-people)
+
+
+
+// Predicate logic relations for the ontology concept haman:
+
+(instance haman historic-person)
+
+
+
+// Predicate logic relations for the ontology concept al-uzza:
+
+(instance al-uzza false-deity)
+
+
+
+// Predicate logic relations for the ontology concept ruby:
+
+(instance ruby mineral)
+
+
+
+// Predicate logic relations for the ontology concept afterlife-location:
+
+(subclass afterlife-location location)
+(instance firdous afterlife-location)
+(instance paradise afterlife-location)
+(instance garden-of-eden afterlife-location)
+(instance hell afterlife-location)
+(instance ladha afterlife-location)
+(instance lote-tree afterlife-location)
+(instance salsabil afterlife-location)
+(instance saqar afterlife-location)
+(instance sijjeen afterlife-location)
+(instance zaqqum afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept companions-of-the-cave:
+
+(subclass companions-of-the-cave historic-people)
+
+
+
+// Predicate logic relations for the ontology concept cow:
+
+(instance cow animal)
+
+
+
+// Predicate logic relations for the ontology concept city:
+
+(subclass city geographical-location)
+(instance babylon city)
+(instance badr city)
+(instance bakkah city)
+(instance makkah city)
+(instance hunayn city)
+(instance iram city)
+(instance medinah city)
+(instance yathrib city)
+
+
+
+// Predicate logic relations for the ontology concept king:
+
+(subclass king human)
+
+
+
+// Predicate logic relations for the ontology concept thamud:
+
+(subclass thamud historic-people)
+(name-of people-of-al-hijr thamud)
+
+
+
+// Predicate logic relations for the ontology concept historic-person:
+
+(subclass historic-person human)
+(instance abel historic-person)
+(instance cain historic-person)
+(instance dhul-kifl historic-person)
+(instance dhul-qarnayn historic-person)
+(instance haman historic-person)
+(instance azar historic-person)
+(instance jalut historic-person)
+(instance maryam historic-person)
+(instance imran historic-person)
+(instance luqman historic-person)
+(instance pharaoh historic-person)
+(instance qarun historic-person)
+(instance samiri historic-person)
+(instance talut historic-person)
+(instance uzair historic-person)
+
+
+
+// Predicate logic relations for the ontology concept salsabil:
+
+(part-of salsabil paradise)
+(instance salsabil afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept mule:
+
+(instance mule animal)
+
+
+
+// Predicate logic relations for the ontology concept jesus:
+
+(instance jesus prophet)
+(instance jesus messenger)
+(son-of jesus maryam)
+(name-of messiah jesus)
+
+
+
+// Predicate logic relations for the ontology concept afterlife-event:
+
+(subclass afterlife-event event)
+(instance day-of-resurrection afterlife-event)
+(instance last-day afterlife-event)
+
+
+
+// Predicate logic relations for the ontology concept kaaba:
+
+(instance kaaba mosque)
+
+
+
+// Predicate logic relations for the ontology concept fish:
+
+(instance fish biological-organism)
+
+
+
+// Predicate logic relations for the ontology concept children-of-adam:
+
+(name-of children-of-adam human)
+(subclass children-of-adam sentient-creation)
+
+
+
+// Predicate logic relations for the ontology concept ear:
+
+(instance ear body-part)
+
+
+
+// Predicate logic relations for the ontology concept clay:
+
+(instance clay physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept living-creation:
+
+(subclass living-creation concept)
+(subclass sentient-creation living-creation)
+(subclass organic-object living-creation)
+
+
+
+// Predicate logic relations for the ontology concept carrion:
+
+(instance carrion food)
+
+
+
+// Predicate logic relations for the ontology concept samiri:
+
+(instance samiri historic-person)
+
+
+
+// Predicate logic relations for the ontology concept location:
+
+(subclass location concept)
+(subclass afterlife-location location)
+(subclass geographical-location location)
+
+
+
+// Predicate logic relations for the ontology concept wing:
+
+(instance wing body-part)
+
+
+
+// Predicate logic relations for the ontology concept leaf:
+
+(instance leaf plant)
+
+
+
+// Predicate logic relations for the ontology concept moon:
+
+(instance moon astronomical-body)
+
+
+
+// Predicate logic relations for the ontology concept knife:
+
+(instance knife weaponary)
+
+
+
+// Predicate logic relations for the ontology concept dog:
+
+(instance dog animal)
+
+
+
+// Predicate logic relations for the ontology concept pomegranate:
+
+(instance pomegranate plant)
+
+
+
+// Predicate logic relations for the ontology concept prophet:
+
+(subclass prophet human)
+(instance adam prophet)
+(instance ahmad prophet)
+(instance muhammad prophet)
+(instance ayyub prophet)
+(instance david prophet)
+(instance elijah prophet)
+(instance elisha prophet)
+(instance harun prophet)
+(instance ibrahim prophet)
+(instance idris prophet)
+(instance isaac prophet)
+(instance ishmael prophet)
+(instance israel prophet)
+(instance yaqub prophet)
+(instance jesus prophet)
+(instance lut prophet)
+(instance messiah prophet)
+(instance musa prophet)
+(instance nuh prophet)
+(instance solomon prophet)
+(instance yahya prophet)
+(instance zechariah prophet)
+(instance yunus prophet)
+(instance yusuf prophet)
+
+
+
+// Predicate logic relations for the ontology concept ape:
+
+(instance ape animal)
+
+
+
+// Predicate logic relations for the ontology concept key:
+
+(instance key artifact)
+
+
+
+// Predicate logic relations for the ontology concept friday:
+
+(instance friday calendar-event)
+
+
+
+// Predicate logic relations for the ontology concept insect:
+
+(subclass insect biological-organism)
+(instance ant insect)
+(instance bee insect)
+(instance fly insect)
+(instance locust insect)
+(instance louse insect)
+(instance mosquito insect)
+(instance spider insect)
+
+
+
+// Predicate logic relations for the ontology concept wolf:
+
+(instance wolf animal)
+
+
+
+// Predicate logic relations for the ontology concept judaism:
+
+(instance judaism religion)
+
+
+
+// Predicate logic relations for the ontology concept sirius:
+
+(instance sirius astronomical-body)
+
+
+
+// Predicate logic relations for the ontology concept quail:
+
+(instance quail bird)
+
+
+
+// Predicate logic relations for the ontology concept romans:
+
+(subclass romans historic-people)
+
+
+
+// Predicate logic relations for the ontology concept embryo:
+
+(instance embryo organic-object)
+
+
+
+// Predicate logic relations for the ontology concept silver:
+
+(instance silver metal)
+
+
+
+// Predicate logic relations for the ontology concept fly:
+
+(instance fly insect)
+
+
+
+// Predicate logic relations for the ontology concept fig:
+
+(instance fig plant)
+
+
+
+// Predicate logic relations for the ontology concept harun:
+
+(instance harun prophet)
+
+
+
+// Predicate logic relations for the ontology concept mineral:
+
+(subclass mineral physical-substance)
+(instance ruby mineral)
+
+
+
+// Predicate logic relations for the ontology concept crow:
+
+(instance crow bird)
+
+
+
+// Predicate logic relations for the ontology concept uzair:
+
+(instance uzair historic-person)
+
+
+
+// Predicate logic relations for the ontology concept lamp:
+
+(instance lamp artifact)
+
+
+
+// Predicate logic relations for the ontology concept dawn:
+
+(instance dawn physical-event)
+
+
+
+// Predicate logic relations for the ontology concept physical-attribute:
+
+(subclass physical-attribute concept)
+(subclass color physical-attribute)
+
+
+
+// Predicate logic relations for the ontology concept satan:
+
+(instance satan jinn)
+(name-of iblis satan)
+
+
+
+// Predicate logic relations for the ontology concept al-safa:
+
+(instance al-safa mountain)
+
+
+
+// Predicate logic relations for the ontology concept language:
+
+(subclass language concept)
+(instance arabic language)
+
+
+
+// Predicate logic relations for the ontology concept lion:
+
+(instance lion animal)
+
+
+
+// Predicate logic relations for the ontology concept al-ahqaf:
+
+(instance al-ahqaf historic-land)
+
+
+
+// Predicate logic relations for the ontology concept idris:
+
+(instance idris prophet)
+
+
+
+// Predicate logic relations for the ontology concept animal:
+
+(subclass animal biological-organism)
+(instance ape animal)
+(instance camel animal)
+(instance cow animal)
+(instance dog animal)
+(instance frog animal)
+(instance goat animal)
+(instance horse animal)
+(instance lion animal)
+(instance mule animal)
+(instance pig animal)
+(instance sheep animal)
+(instance snake animal)
+(instance wolf animal)
+
+
+
+// Predicate logic relations for the ontology concept abel:
+
+(son-of abel adam)
+(instance abel historic-person)
+
+
+
+// Predicate logic relations for the ontology concept christianity:
+
+(instance christianity religion)
+
+
+
+// Predicate logic relations for the ontology concept jalut:
+
+(instance jalut historic-person)
+
+
+
+// Predicate logic relations for the ontology concept weaponary:
+
+(subclass weaponary artifact)
+(instance arrow weaponary)
+(instance coat-of-mail weaponary)
+(instance knife weaponary)
+
+
+
+// Predicate logic relations for the ontology concept night-of-decree:
+
+(instance night-of-decree calendar-event)
+
+
+
+// Predicate logic relations for the ontology concept talut:
+
+(instance talut historic-person)
+
+
+
+// Predicate logic relations for the ontology concept sijjeen:
+
+(name-of sijjeen hell)
+(instance sijjeen afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept masjid-al-haram:
+
+(instance masjid-al-haram mosque)
+
+
+
+// Predicate logic relations for the ontology concept solomon:
+
+(son-of solomon david)
+(instance solomon prophet)
+
+
+
+// Predicate logic relations for the ontology concept makkah:
+
+(instance makkah city)
+(name-of bakkah makkah)
+
+
+
+// Predicate logic relations for the ontology concept metal:
+
+(subclass metal physical-substance)
+(instance brass metal)
+(instance gold metal)
+(instance silver metal)
+(instance iron metal)
+
+
+
+// Predicate logic relations for the ontology concept physical-substance:
+
+(subclass physical-substance concept)
+(subclass metal physical-substance)
+(instance clay physical-substance)
+(instance coral physical-substance)
+(instance pearl physical-substance)
+(instance dust physical-substance)
+(instance glass physical-substance)
+(subclass mineral physical-substance)
+(instance oil physical-substance)
+(instance silk physical-substance)
+(instance soil physical-substance)
+
+
+
+// Predicate logic relations for the ontology concept astronomical-body:
+
+(subclass astronomical-body concept)
+(instance constellation astronomical-body)
+(instance earth astronomical-body)
+(instance moon astronomical-body)
+(instance star astronomical-body)
+(instance sirius astronomical-body)
+(instance sun astronomical-body)
+
+
+
+// Predicate logic relations for the ontology concept pig:
+
+(instance pig animal)
+
+
+
+// Predicate logic relations for the ontology concept meat:
+
+(instance meat food)
+
+
+
+// Predicate logic relations for the ontology concept monastery:
+
+(instance monastery place-of-worship)
+
+
+
+// Predicate logic relations for the ontology concept horizon:
+
+(instance horizon geographical-location)
+
+
+
+// Predicate logic relations for the ontology concept marut:
+
+(instance marut angel)
+
+
+
+// Predicate logic relations for the ontology concept rain:
+
+(instance rain weather-phenomena)
+
+
+
+// Predicate logic relations for the ontology concept goat:
+
+(instance goat animal)
+
+
+
+// Predicate logic relations for the ontology concept color:
+
+(subclass color physical-attribute)
+(instance green color)
+
+
+
+// Predicate logic relations for the ontology concept religion:
+
+(subclass religion concept)
+(instance christianity religion)
+(instance islam religion)
+(instance judaism religion)
+(instance sabians religion)
+(instance magians religion)
+
+
+
+// Predicate logic relations for the ontology concept maryam:
+
+(daughter-of maryam imran)
+(instance maryam historic-person)
+(son-of jesus maryam)
+
+
+
+// Predicate logic relations for the ontology concept concept:
+
+(subclass living-creation concept)
+(subclass event concept)
+(subclass location concept)
+(subclass false-deity concept)
+(instance allah concept)
+(instance allah's-throne concept)
+(subclass language concept)
+(subclass artifact concept)
+(subclass astronomical-body concept)
+(subclass physical-substance concept)
+(subclass religion concept)
+(subclass weather-phenomena concept)
+(subclass physical-attribute concept)
+(subclass holy-book concept)
+
+
+
+// Predicate logic relations for the ontology concept companions-of-the-rass:
+
+(subclass companions-of-the-rass historic-people)
+
+
+
+// Predicate logic relations for the ontology concept gold:
+
+(instance gold metal)
+
+
+
+// Predicate logic relations for the ontology concept dhul-qarnayn:
+
+(instance dhul-qarnayn historic-person)
+
+
+
+// Predicate logic relations for the ontology concept false-deity:
+
+(subclass false-deity concept)
+(instance al-uzza false-deity)
+(instance allat false-deity)
+(subclass idol false-deity)
+(instance manat false-deity)
+(instance nasr false-deity)
+(instance suwa false-deity)
+(instance wadd false-deity)
+(instance yaghuth false-deity)
+(instance yauq false-deity)
+(instance baal false-deity)
+
+
+
+// Predicate logic relations for the ontology concept olive:
+
+(instance olive plant)
+
+
+
+// Predicate logic relations for the ontology concept yunus:
+
+(instance yunus prophet)
+(instance yunus messenger)
+
+
+
+// Predicate logic relations for the ontology concept zaqqum:
+
+(name-of zaqqum hell)
+(instance zaqqum afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept arabic:
+
+(instance arabic language)
+
+
+
+// Predicate logic relations for the ontology concept ibrahim:
+
+(son-of ibrahim azar)
+(instance ibrahim prophet)
+(instance ibrahim messenger)
+(son-of isaac ibrahim)
+(son-of ishmael ibrahim)
+
+
+
+// Predicate logic relations for the ontology concept ladha:
+
+(name-of ladha hell)
+(instance ladha afterlife-location)
+
+
+
+// Predicate logic relations for the ontology concept david:
+
+(instance david prophet)
+(son-of solomon david)
+
+
+
+// Predicate logic relations for the ontology concept onion:
+
+(instance onion plant)
+
+
+
+// Predicate logic relations for the ontology concept wadd:
+
+(instance wadd false-deity)
+
